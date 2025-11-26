@@ -89,4 +89,3 @@ Data was normalized into relational tables to enable efficient SQL querying and 
 
 ---
 
-## 📁 Repository Structure
